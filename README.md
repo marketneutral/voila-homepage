@@ -34,7 +34,7 @@ You need to make sure that the `config.yml` file makes sense for you. It contain
 
 ## Notebook Metadata
 
-The hompeage is built by creating Vuetify cards from the notebooks in your directory. If you don't put any special metadata into your notebooks, you will get a card with the title equal to the notebook filename, and a description that says "A Jupyter Notebook." However, you can also add metadata to your notebooks using `scrapbook` for the **title** and **description**. Simply a cell like this anywhere in your notebook:
+The hompeage is built by creating Vuetify cards from the notebooks in your directory. If you don't put any special metadata into your notebooks, each cards will have a title equal to the notebook filename, and a description that says "A Jupyter Notebook." However, you can also add metadata to your notebooks using `scrapbook` for the **title** and **description**. Simply add a cell like this anywhere in your notebook:
 
 ```python
 import scrapbook as sb
