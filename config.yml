@@ -1,1 +1,9 @@
+title: 'My Voila Homepage'
 server_url: localhost:8866
+app_bar_links:
+    'github': 'https://github.com/marketneutral/voila-homepage'
+additional:
+    my_link:
+        'title': 'Another Link'
+        'description': 'This is a link from the additional config.'
+        'link': 'https://github.com'
