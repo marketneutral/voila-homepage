@@ -1,10 +1,11 @@
 
 # voila-homepage
-A simple homepage for serving notebooks with voila, made and styled with [`ipyvuetify`](https://github.com/mariobuikhuizen/ipyvuetify).
+A simple Veutify homepage for serving notebooks with voila.
 
 <img src="https://user-images.githubusercontent.com/16124573/62651426-fca3cd80-b926-11e9-8256-e0677f88625b.png" width="500">
 
-[`voila`](https://github.com/QuantStack/voila) is amazing! This project presents a single homepage for serving voila and other dashboards (via links).
+[`voila`](https://github.com/QuantStack/voila) is amazing! This project presents a single homepage for serving voila and other dashboards (via links). The homepage is constructed at runtime based on your directory contents and is made and styled with [`ipyvuetify`](https://github.com/mariobuikhuizen/ipyvuetify).
+
 
 ## Installation
 
