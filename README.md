@@ -12,10 +12,15 @@ A simple homepage for serving notebooks with voila.
 - start <kbd>`voila`</kbd>; you will see command line output like
 
 ```
-
-
+17:43 $ voila
+[Voila] Using /tmp to store connection files
+[Voila] Storing connection files in /tmp/voila_r_kwka3j.
+[Voila] Serving static files from /home/user/voila/voila/static.
+[Voila] Voila is running at:
+http://localhost:8868/
 ```
 
-- point your browser to `localhost:8866`
+- point your browser to `http://localhost:8866/voila/render/homepage.ipynb` and **boom** ... you are greated with a dynamically created Vuetify display of your notebook directory!
+
 
 
