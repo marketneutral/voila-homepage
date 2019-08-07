@@ -1,6 +1,6 @@
 
 # voila-homepage
-A simple homepage for serving notebooks with voila.
+A simple homepage for serving notebooks with voila, made and styled with [`ipyvuetify`](https://github.com/mariobuikhuizen/ipyvuetify).
 
 <img src="https://user-images.githubusercontent.com/16124573/62651426-fca3cd80-b926-11e9-8256-e0677f88625b.png" width="500">
 
