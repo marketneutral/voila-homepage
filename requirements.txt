@@ -1,0 +1,3 @@
+ipyvuetify
+nteract-scrapbook
+voila
