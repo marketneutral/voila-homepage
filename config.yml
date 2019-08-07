@@ -6,4 +6,5 @@ additional:
     my_link:
         'title': 'Another Link'
         'description': 'This is a link from the additional config.'
-        'link': 'https://github.com'
+        'link': 'https://www.tableau.com/'
+        'logo': 'https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png'
