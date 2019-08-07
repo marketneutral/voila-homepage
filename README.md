@@ -32,3 +32,15 @@ You need to make sure that the `config.yml` file makes sense for you. It contain
 - the links on the right of the dashboard bar
 - any additional sites you want to link to (e.g, if you have non-Jupyter notebook links that you want to mix into this screen).
 
+## Notebook Metadata
+
+The hompeage is built by creating Vuetify cards from the notebooks in your directory. If you don't put any special metadata into your notebooks, you will get a card with the title equal to the notebook filename, and a description that says "A Jupyter Notebook." However, you can also add metadata to your notebooks using `scrapbook` for the **title** and **description**. Simply a cell like this anywhere in your notebook:
+
+```python
+import scrapbook as sb
+
+sb.glue('title', 'Dashboard A')
+sb.glue('description', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.')
+```
+
+That's it. This metadata will be read and used to construct the card.
