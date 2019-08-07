@@ -2,7 +2,7 @@
 # voila-homepage
 A simple homepage for serving notebooks with voila.
 
-<img src="https://user-images.githubusercontent.com/16124573/62647088-ca41a280-b91d-11e9-9023-f06273eb09ce.png" width="400">
+<img src="https://user-images.githubusercontent.com/16124573/62651426-fca3cd80-b926-11e9-8256-e0677f88625b.png" width="400">
 
 [`voila`](https://github.com/QuantStack/voila) is amazing! This project presents a single homepage for serving voila and other dashboards (via links).
 
