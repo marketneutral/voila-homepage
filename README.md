@@ -1,7 +1,8 @@
-<img src="https://user-images.githubusercontent.com/16124573/62647088-ca41a280-b91d-11e9-9023-f06273eb09ce.png" width="400">
 
 # voila-homepage
 A simple homepage for serving notebooks with voila.
+
+<img src="https://user-images.githubusercontent.com/16124573/62647088-ca41a280-b91d-11e9-9023-f06273eb09ce.png" width="400">
 
 [`voila`] is amazing! This project present a single homepage for serving voila and other dashboards (via links).
 
