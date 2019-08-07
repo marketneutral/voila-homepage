@@ -25,7 +25,7 @@ A simple Veutify homepage for serving notebooks with voila.
 http://localhost:8868/
 ```
 
-- point your browser to `http://localhost:8866/voila/render/homepage.ipynb` and **boom** ... you are greated with a dynamically created Vuetify display of your notebook directory!
+- point your browser to `http://localhost:8866/voila/render/homepage.ipynb` and **boom** ... you are greeted with a dynamically created Vuetify display of your notebook directory!
 
 ## Configuration
 
