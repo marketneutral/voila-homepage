@@ -11,7 +11,8 @@ A simple Veutify homepage for serving notebooks with voila.
 ## Installation
 
 - make a directory where you want to serve your notebooks from, e.g., `~/my_notebooks`
-- put your notebooks in that directory
+- in that directory, make two subdirectories, `released`, and `beta`
+- put your notebooks in those directories
 - copy `homepage.ipynb` and `config.yml` to that directory
 - cd to that directory
 - start <kbd>`voila`</kbd>; you will see command line output like
